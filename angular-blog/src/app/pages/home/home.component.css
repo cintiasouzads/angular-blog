@@ -1,0 +1,7 @@
+/*Aqui eu faço a mudança universal do site..
+no container article está inserido o big-card entao a margin-top
+é em relação a ao menu-title*/
+
+.container__articles{
+  margin-top: 30px;
+}
