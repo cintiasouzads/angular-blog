@@ -11,7 +11,7 @@ photoCover:string=""
 @Input()
 cardTitle:string = ""
 @Input()
-Id="0"
+Id:string="0"
 
 
 
