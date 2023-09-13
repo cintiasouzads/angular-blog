@@ -6,4 +6,7 @@ no container article está inserido o big-card entao a margin-top
   margin-top: 30px;
   display:flex;
   flex-direction: row;
+  justify-content: center;
 }
+
+
