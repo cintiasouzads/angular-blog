@@ -12,6 +12,7 @@ photoCover:string=""
 cardTitle:string = ""
 @Input()
 Id:string="0"
+cordeFundo:string="white"
 
 
 

@@ -1,3 +1,4 @@
+import { NgStyle } from '@angular/common';
 import { Component, Input, OnInit } from '@angular/core';
 
 @Component({
@@ -14,6 +15,8 @@ cardTitle:string=""
 cardDescription:string=""
 @Input()
 Id:string = "0"
+@Input()
+ativo:boolean = false;
 
 constructor(){}
 
