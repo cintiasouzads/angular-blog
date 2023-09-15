@@ -15,8 +15,7 @@ cardTitle:string=""
 cardDescription:string=""
 @Input()
 Id:string = "0"
-@Input()
-ativo:boolean = false;
+
 
 constructor(){}
 
