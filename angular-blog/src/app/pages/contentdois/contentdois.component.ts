@@ -3,18 +3,17 @@ import { ActivatedRoute } from '@angular/router';
 import { dataFake } from '../../data/dataFake';
 
 @Component({
-  selector: 'app-content',
-  templateUrl: './content.component.html',
-  styleUrls: ['./content.component.css']
+  selector: 'app-contentdois',
+  templateUrl: './contentdois.component.html',
+  styleUrls: ['./contentdois.component.css']
 })
-export class ContentComponent implements OnInit {
-photoCover:string=""
-contentTitle :string=""
-contentDescription:string=""
-private id:string |null="0"
+export class ContentdoisComponent implements OnInit {
+  photoCover:string=""
+  contentTitle :string=""
+  contentDescription:string=""
+  private id:string |null="0"
 
-
-constructor(private route:ActivatedRoute){}
+  constructor(private route:ActivatedRoute){}
 
 
   ngOnInit(): void {
@@ -30,6 +29,9 @@ constructor(private route:ActivatedRoute){}
     this.contentDescription = result.description
     this.photoCover = result.photoCover
   }
+
+
+
 
 
 }

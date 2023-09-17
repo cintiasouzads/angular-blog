@@ -1,4 +1,4 @@
-import { NgStyle } from '@angular/common';
+
 import { Component, Input, OnInit } from '@angular/core';
 
 @Component({
@@ -6,7 +6,8 @@ import { Component, Input, OnInit } from '@angular/core';
   templateUrl: './big-card.component.html',
   styleUrls: ['./big-card.component.css']
 })
-export class BigCardComponent implements OnInit {
+export class BigCardComponent implements OnInit{
+
 @Input()
 photoCover:string=""
 @Input()
@@ -16,11 +17,7 @@ cardDescription:string=""
 @Input()
 Id:string = "0"
 
-
-constructor(){}
-
-
-
 ngOnInit(): void {}
+
 
 }

@@ -9,6 +9,10 @@ import { BigCardComponent } from './components/big-card/big-card.component';
 import { SmallCardComponent } from './components/small-card/small-card.component';
 import { HomeComponent } from './pages/home/home.component';
 import { ContentComponent } from './pages/content/content.component';
+import { ContentdoisComponent } from './pages/contentdois/contentdois.component';
+import { SecondBigCardComponent } from './components/second-big-card/second-big-card.component';
+import { ThirdBigCardComponent } from './components/third-big-card/third-big-card.component';
+import { ContenttresComponent } from './pages/contenttres/contenttres.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +22,11 @@ import { ContentComponent } from './pages/content/content.component';
     BigCardComponent,
     SmallCardComponent,
     HomeComponent,
-    ContentComponent
+    ContentComponent,
+    ContentdoisComponent,
+    SecondBigCardComponent,
+    ThirdBigCardComponent,
+    ContenttresComponent
   ],
   imports: [
     BrowserModule,
