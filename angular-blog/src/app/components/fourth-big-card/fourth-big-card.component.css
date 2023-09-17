@@ -1,4 +1,4 @@
-.container__second-card{
+.container__fourth-card{
 
     margin-left: 20px;
     margin-right: 20px;
@@ -13,7 +13,7 @@
 
 
 
-  .second-card__title > h1{
+  .fourth-card__title > h1{
     display: flex;
     flex-direction: column;
     align-items:center;
@@ -25,15 +25,16 @@
   margin-left: 25px;
   }
 
-  .second-card__description{
+  .fourth-card__description{
 
     margin-top: 20px;
     font-size: large;
     font-weight: bold;
 
+
   }
 
-  .second-card__description > p > a {
+  .fourth-card__description > p > a {
   margin-top: 10px;
   margin-left: 15px;
   margin-right: 30px;
@@ -43,7 +44,7 @@
   color:white;
   }
 
-  .second-card__photo > img{
+  .fourth-card__photo > img{
   width: 100%;
   min-width: 500px;
 

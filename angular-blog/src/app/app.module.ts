@@ -13,6 +13,8 @@ import { ContentdoisComponent } from './pages/contentdois/contentdois.component'
 import { SecondBigCardComponent } from './components/second-big-card/second-big-card.component';
 import { ThirdBigCardComponent } from './components/third-big-card/third-big-card.component';
 import { ContenttresComponent } from './pages/contenttres/contenttres.component';
+import { FourthBigCardComponent } from './components/fourth-big-card/fourth-big-card.component';
+import { ContentquatroComponent } from './pages/contentquatro/contentquatro.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +28,9 @@ import { ContenttresComponent } from './pages/contenttres/contenttres.component'
     ContentdoisComponent,
     SecondBigCardComponent,
     ThirdBigCardComponent,
-    ContenttresComponent
+    ContenttresComponent,
+    FourthBigCardComponent,
+    ContentquatroComponent
   ],
   imports: [
     BrowserModule,
