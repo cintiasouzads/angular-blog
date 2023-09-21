@@ -1,5 +1,5 @@
 .container__content{
-  border: 1px solid white;
+ 
   width: 100%;
   height: 100vh;
 
@@ -24,7 +24,7 @@ border-radius: 5px;
 }
 
 .content__description > p{
-  color:gray;
+  color:white;
 }
 
 .content__description{
