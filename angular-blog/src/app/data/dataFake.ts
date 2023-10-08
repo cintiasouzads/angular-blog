@@ -22,7 +22,7 @@
     "id":"4",
     "title":"",
     "description":
-    "Libra e Áries. Áries é o oposto complementar de Libra e, por isso, traz tudo o que falta no libriano: atitude, vigor, disposição para brigar pelo que é necessário, garra e dinamismo. Essa relação vai pegar fogo e trazer movimento para a vida sempre suave do nativo de Libra.  No entanto, as atitudes impulsivas de Áries podem desiquilibrar a pessoa de Libra, que precisará  exercitar a paciência. Se conseguirem superar essas dificuldades, poderão viver uma boa relação.",
+    "Libra é praticamente sinônimo de relacionamento, pois é o signo ligado às relações e parcerias. Relacionamento é seu objetivo de vida, por mais que a libriana possa negar em sua fase solteira. Um namoro ou belo casamento são objetos de desejo e de realização. Não precisa ser nada formal, basta o estar junto curtindo momentos bem instagramáveis e românticos. Se a libriana está num namoro, sua autoestima fica lá em cima, e ela fica até mais ousada para experimentar umas aventuras diferentes.",
     "photoCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS52y2zCqcjSMOHuCayww548V7F_wWVAoWfnQ&usqp=CAU"
   }
  ]

@@ -1,13 +1,13 @@
 .container__third-card{
 
-    margin-left: 20px;
-    margin-right: 20px;
-    width: 70%;
-    height: 400px;
-    display: flex;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 70%;
+  height: 400px;
+  display: flex;
   flex-direction: row;
-    align-items:center;
-    justify-content:center;
+  align-items:center;
+  justify-content:center;
 
   }
 
@@ -40,7 +40,7 @@
   display: flex;
   flex-direction:column;
   text-align: left;
-  color:white;
+  color:rgb(231, 221, 221);
   }
 
   .third-card__photo > img{
