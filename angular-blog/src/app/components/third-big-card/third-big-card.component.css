@@ -1,11 +1,11 @@
 .container__third-card{
 
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 70px;
+  margin-right: 70px;
   width: 70%;
   height: 400px;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items:center;
   justify-content:center;
 

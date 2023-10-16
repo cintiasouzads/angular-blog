@@ -1,5 +1,5 @@
 .container__content{
- 
+
   width: 100%;
   height: 100vh;
 
@@ -12,14 +12,14 @@
 }
 
 .content__cover{
-  border: 1px solid gray;
+
 }
 
 .content__cover > img {
 width: 500px;
 height: 300px;
 min-width:500px ;
-border: 1px solid rgb(144, 144, 144);
+
 border-radius: 5px;
 }
 
