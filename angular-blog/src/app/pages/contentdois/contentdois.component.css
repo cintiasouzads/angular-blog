@@ -11,9 +11,6 @@
  align-items: center;
 }
 
-.content__cover{
-
-}
 
 .content__cover > img {
 width: 500px;
@@ -24,9 +21,10 @@ border-radius: 5px;
 }
 
 .content__description > p{
-  color:blueviolet;
+ 
 }
 
 .content__description{
   margin-top: 15px;
+  color: blueviolet;
 }
